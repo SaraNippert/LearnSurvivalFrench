@@ -1,0 +1,66 @@
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.AssemblyInfo.cs
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.exe
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.deps.json
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.runtimeconfig.json
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.runtimeconfig.dev.json
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.pdb
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.pdb
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.genruntimeconfig.cache
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.exe
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.deps.json
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.runtimeconfig.json
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.runtimeconfig.dev.json
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Learn French App.pdb
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.csproj.AssemblyReference.cache
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.AssemblyInfoInputs.cache
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.AssemblyInfo.cs
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.csproj.CoreCompileInputs.cache
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.csproj.CopyComplete
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.dll
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.pdb
+C:\Users\saran\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.genruntimeconfig.cache
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Student\source\repos\personal projects\LearnFrenchApp\Learn French App\Learn French App\obj\Debug\netcoreapp3.1\Learn French App.csproj.CopyComplete
